@@ -1,0 +1,15 @@
+
+public class FirstJava {
+
+	public static void main(String[] args) {
+		int num, sum;
+		
+		num = 1;
+		sum = 0;
+		sum = sum + num;
+		System.out.println(sum);
+		
+
+	}
+
+}

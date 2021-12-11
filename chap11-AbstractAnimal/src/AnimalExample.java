@@ -14,7 +14,7 @@ class Cat extends Animal {
 	}
 
 	@Override
-	public void sound() {
+	public void sound() { // 서브 클래스마다 추상 메소드 다르게 구현
 		System.out.println("야옹");
 	}
 }

@@ -1,0 +1,2 @@
+module Covid_Distancing {
+}
